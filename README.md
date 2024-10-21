@@ -2,6 +2,11 @@
 This is a full-featured the Sudoku Game created using React.
 The game uses shadcn/ui components for consistent styling and Lucide icons for the buttons. The board state management is handled through React useState hooks, with separate tracking for the original board, current state, and move history.
 
+|  |  |
+|---------|---------|
+| ![game ui with light mode and candidates on](light.png) | ![game ui with dark mode](dark.png) |
+
+
 ## Features
 
 ### Difficulty Levels
